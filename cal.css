@@ -1,0 +1,30 @@
+button{
+  padding:5px;
+  width:75px;
+  height:45px;
+  background-color:#f9f9f9;
+  border:1px solid #adb5bd;
+  font-size:22px;
+}
+
+.btn{
+  background-color:#de6834;
+  color:white;
+}
+
+#display{
+  border:1px solid #de6834;
+  width:365px;
+  height:35px;
+  padding:12px 5px;
+  font-size:28px;
+  text-align:right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+  border:2px solid lightgrey;
+  padding:20px;
+  width:380px;
+  box-shadow:1px 1px 3px lightgrey;
+}
